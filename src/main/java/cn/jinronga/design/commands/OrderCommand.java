@@ -1,4 +1,4 @@
-package cn.jinronga.design.strategy.commands;
+package cn.jinronga.design.commands;
 
 
 

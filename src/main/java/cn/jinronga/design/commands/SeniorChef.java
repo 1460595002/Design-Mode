@@ -1,4 +1,4 @@
-package cn.jinronga.design.strategy.commands;
+package cn.jinronga.design.commands;
 
 // 资深大厨类 是命令的Receiver
 public class SeniorChef {
